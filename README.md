@@ -11,7 +11,7 @@ Your friendly neighborhood tech explorer! 🌌
 
 🔥 **Skills:** Python | Java | C++ | Machine Learning | TensorFlow | Flutter
 
-🌐 **Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedsameh-blue)](https://www.linkedin.com/in/ahmed-sameh-b01348b6/) | [![Facebook](https://img.shields.io/badge/Facebook-ahmedsameh-blue)](https://www.facebook.com/Floppyfire52) | [![Instagram](https://img.shields.io/badge/Instagram-ahmedsameh-orange)](https://www.instagram.com/ahmedsameh52/?hl=en) | [![YouTube](https://img.shields.io/badge/YouTube-ahmedsameh-red)](https://www.youtube.com/channel/UCOG4smGWiL4eT2MR2vaH_hg) | [![GitHub](https://img.shields.io/badge/GitHub-ahmedsameh-lightgrey)](https://github.com/AhmedSameh52)
+🌐 **Connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedsameh-blue)](https://www.linkedin.com/in/ahmed-sameh-b01348b6/) | [![Facebook](https://img.shields.io/badge/Facebook-ahmedsameh-blue)](https://www.facebook.com/Floppyfire52) | [![Instagram](https://img.shields.io/badge/Instagram-ahmedsameh-orange)](https://www.instagram.com/ahmedsameh52/?hl=en) | [![YouTube](https://img.shields.io/badge/YouTube-ahmedsameh-red)](https://www.youtube.com/channel/UCOG4smGWiL4eT2MR2vaH_hg) 
 
 👀 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=AhmedSameh52)
 
